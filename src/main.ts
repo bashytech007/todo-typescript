@@ -1,3 +1,4 @@
+import './style.css';
 interface Task {
     text: string;
     completed: boolean;
