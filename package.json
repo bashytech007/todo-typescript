@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "vite"
+    "dev": "vite",
+    "serve": "vite preview",
+    "start": "vite",
+    "build": "vite build"
+    
   },
   "keywords": [],
   "author": "",
